@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ConversorDeMoneda\ConversorDeMoneda\obj\Debug\net8.0\ConversorDeMoneda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ConversorDeMoneda\ConversorDeMoneda\obj\Debug\net8.0\ConversorDeMoneda.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConversorDeMoneda\ConversorDeMoneda\obj\Debug\net8.0\ConversorDeMoneda.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConversorDeMoneda\ConversorDeMoneda\obj\Debug\net8.0\ConversorDeMoneda.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConversorDeMoneda\ConversorDeMoneda\bin\Debug\net8.0\ConversorDeMoneda.exe
+C:\Users\Administrator\source\repos\ConversorDeMoneda\ConversorDeMoneda\bin\Debug\net8.0\ConversorDeMoneda.deps.json
+C:\Users\Administrator\source\repos\ConversorDeMoneda\ConversorDeMoneda\bin\Debug\net8.0\ConversorDeMoneda.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConversorDeMoneda\ConversorDeMoneda\bin\Debug\net8.0\ConversorDeMoneda.dll
+C:\Users\Administrator\source\repos\ConversorDeMoneda\ConversorDeMoneda\bin\Debug\net8.0\ConversorDeMoneda.pdb
+C:\Users\Administrator\source\repos\ConversorDeMoneda\ConversorDeMoneda\obj\Debug\net8.0\ConversorDeMoneda.dll
+C:\Users\Administrator\source\repos\ConversorDeMoneda\ConversorDeMoneda\obj\Debug\net8.0\refint\ConversorDeMoneda.dll
+C:\Users\Administrator\source\repos\ConversorDeMoneda\ConversorDeMoneda\obj\Debug\net8.0\ConversorDeMoneda.pdb
+C:\Users\Administrator\source\repos\ConversorDeMoneda\ConversorDeMoneda\obj\Debug\net8.0\ConversorDeMoneda.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConversorDeMoneda\ConversorDeMoneda\obj\Debug\net8.0\ref\ConversorDeMoneda.dll
